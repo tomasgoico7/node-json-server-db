@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Fonseca",
+      "materias": [
+        {
+          "nombre": "SQL"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ],
+      "id": "35a3"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "materias": [
+        {
+          "nombre": "SQL"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Angular"
+        }
+      ],
+      "id": "35a3"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Marias",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "48e3"
+    },
+    {
+      "nombre": "Pepe",
+      "apellido": "Alfonso",
+      "promedio": 10,
+      "id": "4259"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "6f6a"
+    },
+    {
+      "nombre": "React desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "2d1d"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "5b64"
+    }
+  ]
+}

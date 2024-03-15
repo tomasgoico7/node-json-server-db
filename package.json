@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "armaremos un pequeño servidor con info de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "goico",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
